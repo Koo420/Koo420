@@ -65,7 +65,7 @@ Polite > loud. Evidence > vibes.
 
 ## Responsibility
 Nothing here tells you what to do. It’s information, not instruction.
-Think first. Then act—if it still makes sense **to you**.
+Think first. Then act if it still makes sense **to you**.
 
 ---
 
