@@ -1,3 +1,6 @@
+
+![GdErUjnXAAAsR7i](https://github.com/user-attachments/assets/5d8da9f0-2ec2-4b68-a324-f4e8e078b771)
+
 # Don’t Be a Sheep
 
 I’m just a random person on the internet. Don’t trust me. Don’t trust anyone by default.
