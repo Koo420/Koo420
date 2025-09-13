@@ -73,5 +73,6 @@ Think first. Then act if it still makes sense **to you**.
 If you’re here for easy answers, you won’t find them. If you’re here to think clearly,
 welcome. Bring your own brain.
 Additionally if you've never used github at the top of this page : <img width="901" height="135" alt="image" src="https://github.com/user-attachments/assets/e9b231a3-0a3e-4a88-a633-e2b5a77047cf" />
+
 You will have acess to all my documents.
 
